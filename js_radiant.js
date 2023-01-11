@@ -10,5 +10,6 @@ function sage(a,b){
 }
 
 console.log(omen(1,2));
-console.log(sage(a,b));
+
+// Staged
 
